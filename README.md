@@ -2,9 +2,8 @@
 
 The Countdown Timer is implemented using the *time* module of PYTHON
 
-##To run this Code do the following steps:
-1. Download the Countdown_Timer.py file and save it.
-2. 
+> To run this code download the Countdown_Timer.py file and save it then do the following task.
+ 
 ## For Windows
   Open Command Prompt then go to file location and run the following command
   ```
